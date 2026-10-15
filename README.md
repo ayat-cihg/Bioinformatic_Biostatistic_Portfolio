@@ -6,10 +6,10 @@ Master's Graduation in Bioinformatics, University of Lille.
 ## Skills
 
 Programming : R, Python, Bash, Nextflow, Snakemake, SQL, PostgrSQL  
-Tools : STAR, FastQC, cutadapt, TrimGalor, CellRank2, SCENIC +, PyDESeq2, Scanpy, Scvelo  
+Tools : STAR, FastQC, cutadapt, Trim Galore, CellRank2, SCENIC +, PyDESeq2, Scanpy, ScVelo  
 Omics : scRNA-seq, ATAC-seq, bulk RNA-seq  
-Biology : Transcriptomics, genomics, neurodevelpment  
+Biology : Transcriptomics, genomics, neurodevelopment  
 
 ## Projects 
-[Internships 6 months MED13L]  
+[Internship : _MED13L_ multi-omics analysis 6 months]  
 [Bioinformatics projects]  
