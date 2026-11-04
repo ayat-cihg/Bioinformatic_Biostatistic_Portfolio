@@ -12,4 +12,4 @@ Biology : Transcriptomics, genomics, neurodevelopment
 
 ## Projects 
 [Internship : _MED13L_ multi-omics analysis 6 months]  
-[Bioinformatics projects]  
+[Bioinformatics projects]
